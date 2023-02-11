@@ -1,0 +1,41 @@
+.bg-container {
+  height: 100vh;
+}
+.top-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: royalblue;
+  justify-content: space-between;
+}
+.history {
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: 700;
+  margin-left: 20px;
+}
+.input-container {
+  margin-right: 50px;
+  display: flex;
+  align-items: center;
+}
+.input {
+  background-color: #2850a7;
+  height: 40px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #64748b;
+}
+.image {
+  background-color: #2850a7;
+  width: 30px;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #64748b;
+  margin-right: 2px;
+}
+.bottom-section {
+  background-color: lightskyblue;
+  margin: 20px;
+}
